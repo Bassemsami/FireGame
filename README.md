@@ -15,11 +15,12 @@ How to Play
 System Requirements
 Operating System: Windows (any recent version)
 Additional Requirements: Ensure you have the necessary C# libraries installed on your system.
-Installation and Running the Game
+
 Access the Game Files:
 Navigate to the finalfinal folder.
 Open the bin folder.
 Go to the Debug folder.
+
 Run the Game:
 Locate the finalfinal.exe executable file.
 Double-click on finalfinal.exe to launch the game.
