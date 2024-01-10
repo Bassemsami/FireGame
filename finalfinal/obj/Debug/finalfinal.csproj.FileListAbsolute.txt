@@ -1,0 +1,10 @@
+C:\Users\Basse\source\repos\finalfinal\finalfinal\bin\Debug\finalfinal.exe.config
+C:\Users\Basse\source\repos\finalfinal\finalfinal\bin\Debug\finalfinal.exe
+C:\Users\Basse\source\repos\finalfinal\finalfinal\bin\Debug\finalfinal.pdb
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.csproj.AssemblyReference.cache
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.Properties.Resources.resources
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.csproj.GenerateResource.cache
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.csproj.CoreCompileInputs.cache
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.exe
+C:\Users\Basse\source\repos\finalfinal\finalfinal\obj\Debug\finalfinal.pdb
